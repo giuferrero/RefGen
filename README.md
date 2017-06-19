@@ -1,22 +1,4 @@
-Skip to content
-This repository
-Search
-Pull requests
-Issues
-Marketplace
-Gist
- @giuferrero
- Sign out
- Watch 0
-  Star 0
-  Fork 0 giuferrero/RefGen
- Code  Issues 0  Pull requests 0  Projects 0  Wiki  Settings Insights 
-Branch: master Find file Copy pathRefGen/README.txt
-d07b6d1  3 minutes ago
-@giuferrero giuferrero Add files via upload
-1 contributor
-RawBlameHistory    
-95 lines (67 sloc)  4.57 KB
+# RefGen
 User Manual for RefGen version 1.0
 
 CONTENTS OF THIS FILE
