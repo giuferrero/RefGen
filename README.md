@@ -20,6 +20,8 @@ The use of the τ threshold makes the overlap of multiple experiments independen
 
 For details of this analysis see:
 
+Ferrero, G., Miano, V., Beccuti, M., Balbo, G., De Bortoli, M., & Cordero, F. (2017). Dissecting the genomic activity of a transcriptional regulator by the integrative analysis of omics data. Scientific reports, 7(1), 8564.
+
 Please cite this paper when using this code.
 
 REQUIREMENTS
